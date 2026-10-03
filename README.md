@@ -6,7 +6,7 @@ Códigos correspondientes a la **entrega 2 de PAI 2026**.
 
 - **Problema 1:** `pinhole_camera.m` y `pinhole_camera_sin_sliders.m`
 - **Problema 3:** `pinhole_placa_problema2.m`
-- **Problema 1 — Bonus:** `pinhole_placa_bonus.m`
+- **Problema Bonus:** `pinhole_placa_bonus.m`
 
 ## Referencias
 
